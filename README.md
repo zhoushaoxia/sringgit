@@ -1,33 +1,15 @@
 # sringgt
 useless
 无用的
-package com.cskaoyan.ssm.bean;
-
-import lombok.Data;
-
-@Data
-public class User {
-
-    String name;
-
-    Integer cash;
-
-    public String getName() {
-        return name;
-    }
-
-    public User setName(String name) {
-        this.name = name;
-        return this;
-    }
-
-    public Integer getCash() {
-        return cash;
-    }
-
-    public User setCash(Integer cash) {
-        this.cash = cash;
-        return this;
-    }
-}
-
+DNF
+CF
+天龙八部
+天涯明月刀
+魔兽世界
+LOL
+天堂2
+热血江湖
+彩虹岛
+冒险岛
+跑跑卡丁车
+qq飞车
